@@ -1,0 +1,6 @@
+a) O erro está no ponto e vírgula (;) depois do if.
+
+b) O erro está na condição "=>". O correto seria: >=.
+
+
+// Lembrando que fiz com o Bruno, por isso as respostas das questões estão iguais 
