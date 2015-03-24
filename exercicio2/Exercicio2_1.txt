@@ -1,6 +1,6 @@
 Tipo Abstrato de Dados: É um conjunto de dados a serem armazenados, e operadores que podem ser usados para a manipulação 
 de dados. Ou seja, dados e operações que podem ser executadas sobre eles. Tem como finalidade a redução da informação 
-necessária para a programação de um algoritmo em somente uma entidade singular. 
+necessária para a programação de um algoritmo em somente uma entidade singular.  
 Concentrar os aspectos essenciais de um dado específico.
 
 Classe: É um Tipo Abstrato de Dados, sendo usado como modelo para a criação de objetos, possuindo características 
